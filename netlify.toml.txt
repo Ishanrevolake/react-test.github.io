@@ -1,0 +1,3 @@
+[build]
+  base = "react-test" 
+  command = "npm run build"  # Adjust the build command as needed
